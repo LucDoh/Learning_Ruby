@@ -1,5 +1,5 @@
-# learning_Ruby
+## Ruby Run 2D
 <p>
-Ruby Run 2D - a simple game where  try to pick up as many rubies as you can without being hit by a flying bomb.
+A simple game where you must pick up as many rubies as possible without being hit by a flying bomb.
 </p>
   <img src="static/RubyRun2D.png" width="320" title="hover text", align="left">
